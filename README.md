@@ -83,4 +83,4 @@ Below is a list of references that were utilized during the development of this 
    
    - [Warnings Library Documentation](https://docs.python.org/3/library/warnings.html) - Employed to manage and filter warnings generated during runtime, ensuring cleaner output and error handling.
 2. **Other Repositories**
-  - [bdthai81 Pandas Challenge](https://github.com/bdthai81/pandas-challenge) - Used git repository for reference for some calculations when I got stuck on them. 
+   - [bdthai81 Pandas Challenge](https://github.com/bdthai81/pandas-challenge) - Used git repository for reference for some calculations when I got stuck on them. 
