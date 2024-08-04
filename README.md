@@ -1,3 +1,12 @@
+# pandas-challenge
+
+**Scenario**
+You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+
+<hr></hr>
+
 **District Summary**
   - [x] Calculate the total number of unique schools
   - [x] Calculate the total number of students
@@ -60,3 +69,18 @@
 **Written Report**
   - [x] Summarizes the analysis
   - [x] Draws two correct conclusions or comparisons from the calculations
+
+<hr></hr>
+
+## References
+
+Below is a list of references that were utilized during the development of this project:
+
+1. **Official Documentation**
+   - [Pandas Documentation](https://pandas.pydata.org/docs/) - Used extensively for data manipulation and analysis, including functions for data cleaning, transformation, and aggregation.
+   
+   - [Pathlib Documentation](https://docs.python.org/3/library/pathlib.html) - Utilized the `Path` module for handling file system paths in a more intuitive and object-oriented manner.
+   
+   - [Warnings Library Documentation](https://docs.python.org/3/library/warnings.html) - Employed to manage and filter warnings generated during runtime, ensuring cleaner output and error handling.
+2. **Other Repositories**
+  - [bdthai81 Pandas Challenge](https://github.com/bdthai81/pandas-challenge) - Used git repository for reference for some calculations when I got stuck on them. 
